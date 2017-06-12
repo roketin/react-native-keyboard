@@ -1,4 +1,4 @@
-# react-native-keyboard
+# roketin-react-native-keyboard
 A numeric keyboard component.
 
 ![ios demo](./doc/ios.png) ![android demo](./doc/android.png)
